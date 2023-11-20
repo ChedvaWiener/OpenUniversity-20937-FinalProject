@@ -53,7 +53,8 @@ and deciphering the responses.
 In case of an error that cannot be handled by the client, or a server error, an
 appropriate message will be displayed and the process will be stopped.
 
-## SDeveloped with PyCharm 2022.3.1.
+## Server
+Developed with PyCharm 2022.3.1.
 
 Server code written with Python 3.11.
 
