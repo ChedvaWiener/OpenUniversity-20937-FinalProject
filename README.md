@@ -24,9 +24,7 @@ Component:
 
 TransferInfo - Reads and analyzes the information from the file transfer.info, the file
 
-contains a connection address to the server, a client name and a file path to send to
-
-##server.
+contains a connection address to the server, a client name and a file path to send to server.
 
 UUID - Converts UUID to string and vice versa.
 
